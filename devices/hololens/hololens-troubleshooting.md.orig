@@ -63,6 +63,9 @@ If your environment is too dark, HoloLens might not see your hand, so make sure 
 
 If your visor has fingerprints or smudges, use the microfiber cleaning cloth that came with the HoloLens to clean your visor gently.
 
+<<<<<<< HEAD
+## HoloLens doesn't respond to my voice commands
+=======
 ### Lights to indicate problems
 
 | When you do this | The lights do this | It means this |
@@ -72,6 +75,7 @@ If your visor has fingerprints or smudges, use the microfiber cleaning cloth tha
 | You press the Power button. | The 1st, 3rd, and 5th lights flash together continually. |  HoloLens may have a hardware failure. To be sure, [reinstall the OS](hololens-recovery.md#hololens-2), and try again. After reinstalling the OS, if the light-flash pattern persists, contact [support](https://support.microsoft.com/en-us/supportforbusiness/productselection?sapid=3ec35c62-022f-466b-3a1e-dbbb7b9a55fb). |
 
 ## HoloLens doesn’t respond to my voice commands
+>>>>>>> Updating troubleshooting docs
 
 If Cortana isn't responding to your voice commands, make sure Cortana is turned on. On the All apps list, select **Cortana** > **Menu** > **Notebook** > **Settings** to make changes. To learn more about what you can say, see [Use your voice with HoloLens](hololens-cortana.md).
 
